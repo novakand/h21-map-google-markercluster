@@ -852,5 +852,5 @@ function ClusterIcon(cluster, styles) {
   MarkerClusterer.IMAGE_SIZES = [53, 56, 66, 78, 90];
   
   if (typeof module == 'object') {
-    module.exports = { default: MarkerClusterer, MarkerClusterer: MarkerClusterer }; 
+    module.exports = { default: MarkerClusterer, MarkerCluster: MarkerClusterer }; 
   }
