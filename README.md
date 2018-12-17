@@ -1,11 +1,11 @@
 
-# h21-map-markercluster-google
+# @h21-map/markercluster-google
 
-## Installation
+### Installation
 ```bash
-npm i h21-map-markercluster-google
+npm i @h21-map/markercluster-google
 ```
 ### How to use
 ```bash
-import {MarkerCluster} from 'h21-map-markercluster-google'
+import {MarkerCluster} from '@h21-map/markercluster-google'
 ```
